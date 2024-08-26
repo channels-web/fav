@@ -276,3 +276,5 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-logo="https://i.imgur.com/rSmwbkj.png" group-title="Undefined",TV Canção Nova Portugal (720p)
 https://tv.cancaonova.pt/9740bb0e-3184-4972-9688-e676aa0d90fc
+#EXTINF:-1 tvg-id="TVCancaoNovaBR.pt" tvg-logo="https://i.imgur.com/rSmwbkj.png" group-title="Undefined",TV Canção Nova Brazil (720p)
+https://www.youtube.com/watch?v=U3PTzP_Squo
